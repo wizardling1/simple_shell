@@ -3,10 +3,10 @@
 A simple shell written in C and targeted for MacOS.
 
 ### Current features
-    - command execution
-    - cd
-    - color prompt
-    - pipes
+    * command execution
+    * cd
+    * color prompt
+    * pipes
 
 ### Todo
     - allow cd or exit to be called from inside a pipe
